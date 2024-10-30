@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "esp32",
+			"path": ".."
+		},
+		{
+			"name": "test1",
+			"path": "../test1"
+		},
+		{
+			"name": "test2",
+			"path": "."
+		},
+		{
+			"name": "esp32Parcial",
+			"path": "../../../Documents/esp32Parcial"
+		},
+		{
+			"name": "servo-motor",
+			"path": "../servo-motor"
+		},
+		{
+			"name": "alarma",
+			"path": "../alarma"
+		}
+	]
+}
